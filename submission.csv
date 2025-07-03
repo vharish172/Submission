@@ -1,0 +1,119 @@
+ID,Gender,Race,Age,Age_Group,Income,Credit_Score,Loan_Amount,Employment_Type,Education_Level,Citizenship_Status,Language_Proficiency,Disability_Status,Criminal_Record,Zip_Code_Group
+589,Male,Race,30,25-60,143019,544,157852,Full-time,High School,Citizen,Limited,No,No,Urban Professional
+1580,Male,Race,38,25-60,83581,595,170075,Full-time,Some College,Citizen,Fluent,No,No,Working Class Urban
+5950,Female,Race,19,Under 25,133965,577,53473,Full-time,Bachelor's,Citizen,Limited,No,No,Rural
+475,Female,Race,66,Over 60,88912,643,229985,Part-time,High School,Citizen,Limited,No,No,High-income Suburban
+1079,Female,Race,72,Over 60,59713,525,390167,Gig,High School,Citizen,Fluent,No,No,Working Class Urban
+3763,Male,Race,23,Under 25,137672,713,428343,Full-time,Graduate,Permanent Resident,Fluent,No,No,High-income Suburban
+6402,Male,Black,30,25-60,151182,545,337502,Full-time,Bachelor's,Citizen,Fluent,Yes,No,Working Class Urban
+6418,Female,Race,70,Over 60,31166,702,412165,Full-time,Some College,Citizen,Fluent,No,No,Working Class Urban
+6585,Male,White,24,Under 25,46743,618,426303,Full-time,Bachelor's,Citizen,Fluent,No,No,Urban Professional
+6837,Female,Race,52,25-60,36148,834,349322,Full-time,Some College,Citizen,Limited,No,No,Urban Professional
+4748,Male,Race,28,25-60,38354,629,425587,Full-time,Bachelor's,Permanent Resident,Fluent,No,No,High-income Suburban
+5343,Male,Black,77,Over 60,126337,684,95449,Full-time,Some College,Citizen,Fluent,No,No,Working Class Urban
+9539,Female,Race,18,Under 25,79198,619,253426,Full-time,High School,Citizen,Fluent,Yes,No,Historically Redlined
+9274,Female,Race,73,Over 60,162860,693,265261,Unemployed,Graduate,Citizen,Fluent,No,Yes,Urban Professional
+4879,Female,Race,58,25-60,60698,552,132755,Part-time,High School,Citizen,Fluent,No,No,Historically Redlined
+1101,Male,Native American,46,25-60,156770,799,326669,Self-employed,Some College,Citizen,Fluent,No,No,High-income Suburban
+5545,Female,Race,37,25-60,27428,722,387727,Full-time,Graduate,Citizen,Fluent,No,No,Urban Professional
+3239,Female,White,23,Under 25,31623,550,284864,Full-time,Graduate,Permanent Resident,Fluent,No,No,Historically Redlined
+845,Male,Asian,23,Under 25,34565,786,256878,Part-time,Some College,Citizen,Fluent,No,No,High-income Suburban
+6995,Male,Black,52,25-60,45784,820,249455,Full-time,Bachelor's,Citizen,Fluent,No,No,High-income Suburban
+2162,Male,Race,33,25-60,76428,519,154526,Full-time,High School,Permanent Resident,Fluent,No,No,Working Class Urban
+1596,Male,Race,61,Over 60,63324,633,282619,Self-employed,Graduate,Citizen,Fluent,No,No,Rural
+8474,Male,Race,33,25-60,44322,622,136497,Part-time,Bachelor's,Visa Holder,Fluent,No,No,Urban Professional
+4435,Male,Race,67,Over 60,91045,668,142346,Gig,High School,Citizen,Fluent,No,No,Working Class Urban
+7158,Female,White,45,25-60,77468,552,95628,Full-time,Some College,Citizen,Fluent,No,No,Urban Professional
+5002,Female,White,37,25-60,91791,686,116381,Gig,High School,Citizen,Fluent,No,No,Working Class Urban
+2318,Male,White,73,Over 60,37129,593,135196,Full-time,High School,Citizen,Fluent,No,No,Working Class Urban
+1337,Female,Race,39,25-60,75342,568,243674,Full-time,Bachelor's,Citizen,Fluent,No,No,Historically Redlined
+4163,Male,White,29,25-60,67294,665,397704,Full-time,High School,Citizen,Fluent,No,No,Working Class Urban
+8730,Male,Race,59,25-60,34720,772,71670,Gig,High School,Citizen,Fluent,No,No,High-income Suburban
+7022,Female,Race,62,Over 60,112399,798,156623,Part-time,Graduate,Citizen,Fluent,No,Yes,Working Class Urban
+5168,Male,White,19,Under 25,148120,771,142834,Full-time,Bachelor's,Citizen,Fluent,No,No,Working Class Urban
+6882,Female,Black,77,Over 60,69496,692,125309,Full-time,High School,Citizen,Fluent,No,No,High-income Suburban
+6965,Male,Race,30,25-60,108670,609,209504,Full-time,High School,Citizen,Fluent,No,No,High-income Suburban
+1172,Female,Race,21,Under 25,163767,648,348402,Full-time,Bachelor's,Citizen,Fluent,No,Yes,High-income Suburban
+9381,Female,White,75,Over 60,91441,581,356523,Gig,High School,Citizen,Fluent,No,No,Rural
+7534,Male,Race,51,25-60,148219,579,50779,Full-time,Graduate,Citizen,Fluent,No,Yes,Rural
+5984,Female,White,79,Over 60,138330,548,167922,Full-time,Some College,Citizen,Fluent,No,No,Urban Professional
+2269,Female,Race,70,Over 60,141230,722,100710,Full-time,Graduate,Citizen,Fluent,No,No,Urban Professional
+1712,Male,White,49,25-60,61771,512,196954,Part-time,High School,Permanent Resident,Fluent,No,No,Urban Professional
+8298,Male,Race,25,25-60,98665,800,303239,Full-time,Bachelor's,Citizen,Fluent,Yes,No,Working Class Urban
+8677,Male,Black,61,Over 60,150686,647,124709,Full-time,High School,Citizen,Fluent,No,No,Urban Professional
+508,Female,Race,29,25-60,113433,653,353802,Self-employed,Bachelor's,Citizen,Fluent,No,No,Historically Redlined
+450,Female,White,36,25-60,96961,637,203615,Part-time,Some College,Citizen,Fluent,No,No,Urban Professional
+9778,Female,Race,50,25-60,51927,554,110011,Full-time,Bachelor's,Citizen,Fluent,Yes,No,Historically Redlined
+2531,Non-binary,Race,25,25-60,126071,841,68155,Full-time,Some College,Citizen,Fluent,No,No,Working Class Urban
+3035,Female,Multiracial,50,25-60,170516,506,157286,Full-time,High School,Citizen,Fluent,No,No,High-income Suburban
+3968,Female,Race,64,Over 60,81876,767,192217,Full-time,Graduate,Citizen,Fluent,No,No,Working Class Urban
+4153,Female,White,62,Over 60,165512,621,102290,Full-time,Bachelor's,Citizen,Fluent,No,Yes,Historically Redlined
+6779,Female,Race,55,25-60,63189,789,399990,Full-time,Bachelor's,Citizen,Fluent,No,No,High-income Suburban
+6986,Female,White,23,Under 25,173975,695,340109,Full-time,High School,Citizen,Fluent,No,No,Urban Professional
+4328,Male,Race,62,Over 60,109419,664,303922,Full-time,Bachelor's,Permanent Resident,Limited,No,No,High-income Suburban
+4619,Female,Multiracial,28,25-60,72394,559,105386,Full-time,Bachelor's,Citizen,Fluent,No,No,Rural
+4957,Male,Race,66,Over 60,78139,747,252427,Full-time,Some College,Citizen,Fluent,Yes,No,Working Class Urban
+4633,Female,Race,48,25-60,132323,630,174452,Full-time,High School,Citizen,Fluent,No,No,Urban Professional
+7366,Male,Race,27,25-60,76681,531,97443,Full-time,Graduate,Citizen,Fluent,No,No,Urban Professional
+605,Female,Race,22,Under 25,28169,530,266093,Gig,Bachelor's,Permanent Resident,Limited,No,No,High-income Suburban
+5137,Male,Race,59,25-60,71030,520,448354,Gig,Graduate,Citizen,Fluent,No,No,Working Class Urban
+3624,Male,Race,18,Under 25,79577,772,358959,Part-time,High School,Citizen,Fluent,No,No,High-income Suburban
+6292,Female,Race,65,Over 60,150023,634,129527,Self-employed,High School,Citizen,Fluent,Yes,Yes,Urban Professional
+4479,Male,Black,23,Under 25,174742,556,64101,Full-time,Bachelor's,Citizen,Fluent,No,No,High-income Suburban
+4841,Female,White,69,Over 60,25390,536,436793,Full-time,High School,Citizen,Fluent,No,No,High-income Suburban
+3534,Male,Black,60,25-60,39525,619,207242,Self-employed,Bachelor's,Permanent Resident,Fluent,No,No,High-income Suburban
+7702,Female,White,29,25-60,149200,824,429413,Full-time,High School,Citizen,Fluent,No,No,High-income Suburban
+8095,Male,Race,51,25-60,88494,597,315072,Full-time,High School,Citizen,Fluent,No,No,High-income Suburban
+6612,Female,White,43,25-60,109571,682,412729,Part-time,Bachelor's,Citizen,Fluent,No,No,Historically Redlined
+3231,Female,Race,18,Under 25,123771,653,249520,Full-time,High School,Citizen,Fluent,No,No,High-income Suburban
+73,Female,Race,51,25-60,154269,649,75612,Part-time,High School,Citizen,Fluent,No,No,Working Class Urban
+7238,Female,Race,67,Over 60,109034,612,186324,Self-employed,Some College,Citizen,Limited,No,No,Urban Professional
+345,Male,Race,70,Over 60,126251,520,193923,Full-time,Some College,Citizen,Fluent,No,Yes,Urban Professional
+1916,Non-binary,Race,28,25-60,75852,776,266764,Gig,High School,Citizen,Fluent,No,No,Working Class Urban
+626,Female,Black,77,Over 60,52307,680,127543,Part-time,Graduate,Citizen,Fluent,No,No,Working Class Urban
+3510,Male,Race,76,Over 60,166735,529,101696,Self-employed,Bachelor's,Citizen,Fluent,Yes,No,High-income Suburban
+6215,Non-binary,Race,77,Over 60,111269,742,366085,Full-time,Graduate,Citizen,Fluent,Yes,Yes,Urban Professional
+8438,Female,Race,74,Over 60,83400,501,286222,Full-time,Graduate,Citizen,Fluent,No,No,Urban Professional
+6134,Female,Race,75,Over 60,50868,641,128543,Full-time,Some College,Citizen,Fluent,Yes,No,Working Class Urban
+7524,Male,Race,57,25-60,34133,845,351857,Self-employed,Bachelor's,Permanent Resident,Fluent,No,No,Urban Professional
+5031,Female,Race,37,25-60,133665,699,233832,Full-time,Bachelor's,Citizen,Fluent,Yes,No,High-income Suburban
+9501,Female,Race,63,Over 60,104663,684,251215,Full-time,Bachelor's,Permanent Resident,Fluent,No,No,Working Class Urban
+5160,Male,Race,58,25-60,93648,776,170601,Full-time,Bachelor's,Citizen,Fluent,Yes,No,Urban Professional
+9858,Female,Asian,80,Over 60,111036,604,227726,Full-time,High School,Citizen,Fluent,No,No,Urban Professional
+7978,Male,Race,32,25-60,120798,677,401439,Full-time,Some College,Citizen,Fluent,No,No,Urban Professional
+9757,Female,Race,54,25-60,138208,509,176637,Full-time,Bachelor's,Citizen,Fluent,No,No,High-income Suburban
+8581,Male,Race,31,25-60,100181,696,412684,Full-time,High School,Citizen,Fluent,No,No,Rural
+7235,Female,Asian,81,Over 60,29682,532,314424,Full-time,Some College,Citizen,Fluent,No,No,Historically Redlined
+4076,Male,White,45,25-60,68075,663,442407,Full-time,Bachelor's,Citizen,Fluent,No,No,Rural
+5971,Female,Race,27,25-60,26916,729,130670,Full-time,Some College,Citizen,Fluent,No,No,Rural
+6411,Female,Race,26,25-60,37682,565,75898,Self-employed,Bachelor's,Citizen,Fluent,No,No,Rural
+2566,Female,Race,71,Over 60,88549,543,298968,Self-employed,Bachelor's,Citizen,Fluent,No,No,Working Class Urban
+6455,Female,Race,74,Over 60,67101,592,393730,Self-employed,Some College,Citizen,Fluent,No,No,Working Class Urban
+8190,Male,Race,23,Under 25,112959,703,103545,Full-time,High School,Citizen,Fluent,No,No,Urban Professional
+7245,Male,White,40,25-60,66997,551,67834,Full-time,High School,Citizen,Fluent,No,No,High-income Suburban
+1809,Female,Race,18,Under 25,110334,639,243490,Full-time,Bachelor's,Citizen,Fluent,Yes,No,Working Class Urban
+8427,Male,Race,28,25-60,108174,776,397953,Part-time,Bachelor's,Citizen,Limited,No,No,High-income Suburban
+4794,Female,Race,38,25-60,134797,827,68460,Self-employed,Bachelor's,Citizen,Fluent,No,No,Urban Professional
+9962,Male,Race,29,25-60,32919,555,162929,Full-time,Bachelor's,Citizen,Fluent,No,No,Rural
+3305,Male,White,64,Over 60,39106,785,217543,Full-time,High School,Citizen,Limited,No,No,Rural
+8004,Female,Multiracial,49,25-60,99041,739,275750,Full-time,High School,Citizen,Fluent,No,Yes,Rural
+9786,Female,Race,48,25-60,113416,518,68570,Full-time,Bachelor's,Citizen,Fluent,No,No,Working Class Urban
+8092,Male,White,50,25-60,167547,660,372688,Full-time,Bachelor's,Citizen,Fluent,Yes,No,Working Class Urban
+959,Male,Race,75,Over 60,108327,737,403892,Gig,Bachelor's,Citizen,Fluent,No,No,Urban Professional
+1877,Female,Race,59,25-60,61670,548,122591,Full-time,Bachelor's,Citizen,Fluent,No,No,High-income Suburban
+511,Male,Race,35,25-60,87877,620,195321,Self-employed,Bachelor's,Citizen,Fluent,Yes,No,Urban Professional
+9091,Male,Race,19,Under 25,150047,733,69465,Full-time,High School,Citizen,Fluent,No,No,Rural
+6969,Male,White,55,25-60,82112,834,149625,Full-time,Bachelor's,Citizen,Fluent,No,No,High-income Suburban
+9270,Male,Race,38,25-60,94034,596,226363,Full-time,Graduate,Citizen,Fluent,No,No,Urban Professional
+9431,Female,Race,18,Under 25,87188,524,313686,Full-time,Bachelor's,Citizen,Fluent,No,No,Historically Redlined
+8480,Male,Race,81,Over 60,113435,735,443565,Part-time,Some College,Citizen,Fluent,No,No,High-income Suburban
+1728,Male,Race,69,Over 60,113472,690,409460,Full-time,Bachelor's,Citizen,Fluent,No,No,Urban Professional
+7119,Female,Race,53,25-60,87603,647,62747,Full-time,Bachelor's,Citizen,Fluent,No,No,Working Class Urban
+1214,Male,Race,20,Under 25,66134,720,395139,Full-time,High School,Citizen,Fluent,No,No,Historically Redlined
+642,Female,Asian,68,Over 60,50934,678,333927,Full-time,Graduate,Citizen,Fluent,Yes,No,Urban Professional
+7952,Female,Asian,63,Over 60,137394,650,439399,Full-time,Graduate,Citizen,Fluent,No,No,Urban Professional
+120,Male,Race,72,Over 60,142049,528,104948,Gig,High School,Citizen,Fluent,No,No,Urban Professional
+5870,Female,White,57,25-60,121459,658,54102,Full-time,High School,Permanent Resident,Limited,No,No,Rural
+6699,Female,Race,36,25-60,109450,632,287731,Gig,Bachelor's,Citizen,Limited,No,Yes,Working Class Urban
+2040,Female,Race,43,25-60,44404,591,338384,Full-time,Some College,Citizen,Fluent,No,No,Rural
+5734,Female,Asian,18,Under 25,88108,506,93828,Part-time,Bachelor's,Citizen,Fluent,Yes,No,Working Class Urban
